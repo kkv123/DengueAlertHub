@@ -1,2 +1,1 @@
-# DengueAwarness
-DengueAwarness web page
+# Responsive-Covid-website
